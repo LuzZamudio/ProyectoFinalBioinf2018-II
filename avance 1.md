@@ -9,7 +9,7 @@ AVANCE 1. Proyecto final
 Análisis de datos ya publicados
 ---
 
-Se llevará a cabo el análisis de datos publicados obtenidos a través de RADseq. Se realizarána análisis de genética de poblaciones, en específico análisis de asignación geográfica (e.g. Structure).  
+Se llevará a cabo el análisis de datos publicados obtenidos a través de RADseq. Se realizarán análisis de genética de poblaciones, en específico análisis de asignación geográfica (e.g. Structure).  
 
 Publicación:
 
