@@ -17,4 +17,4 @@ Publicación:
 
 Repositorio:
 
-- Manthey, J. D., & Moyle, R. G. (2015). **Data from Isolation by environment in White‐breasted Nuthatches (Sitta carolinensis) of the Madrean Archipelago sky islands: a landscape genomics approach**. Dryad Digital Repository. DOI: 10.5061/dryad.8hm4p. [link] (https://datadryad.org//resource/doi:10.5061/dryad.8hm4p)
+- Manthey, J. D., & Moyle, R. G. (2015). **Data from Isolation by environment in White‐breasted Nuthatches (Sitta carolinensis) of the Madrean Archipelago sky islands: a landscape genomics approach**. Dryad Digital Repository. DOI: 10.5061/dryad.8hm4p. [link](https://datadryad.org//resource/doi:10.5061/dryad.8hm4p)
